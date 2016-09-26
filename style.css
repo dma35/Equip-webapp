@@ -1,0 +1,251 @@
+#header{
+	background: linear-gradient(#808080,transparent 90%),
+				#fff url(img/idea.jpg) no-repeat center;
+	height: 520px;
+	background-size: 100% 100%;
+	margin-top: none;
+	padding:1rem 2rem 0 2rem; 
+	
+}
+
+.nav-text{
+	color:white;
+	font-weight: bold;
+	font-size: .9rem;
+}
+
+.nav-right-text{
+	color:white;
+	font-weight: bold;
+	font-size: .7rem;
+}
+
+nav ul li{
+	list-style-type: none;
+	}
+
+.display-4{
+	color: white;
+	font-size: 3.6rem;
+	font-weight: bold;
+	text-align: center;
+	padding: 10% 13% 1% 13%;
+}
+.lead{
+	color: white;
+	text-align: center;
+	font-weight: bold;
+}
+.learn-more-btn{
+	margin-bottom: 24px;
+	height: 3rem;
+	width: 12rem; 
+	border-radius: 0;
+	padding-top: .6rem;
+	padding-right: 	2.5rem;
+	padding-left: 1.9rem;
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+.questions-btn{
+	color: blue;
+	border-radius: 0;
+	background: rgba(255,255,255,.2);
+	color: white;
+	font-weight: 500;	
+}
+.jumbotron-fluid{
+	margin-left: 10%;
+}
+.questions-btn:hover{
+	color: white;
+	text-decoration: underline;
+}
+.sub-header1{
+	margin-left: 12.3%;
+	width: 280px;
+	text-align: center;
+}
+.sub-header2{
+	margin-left: 2.8%;
+	width: 280px;
+	text-align: center;
+}
+.sub-header-img{
+	height: 48px;
+}
+.sub-header-h4{
+	color: black;
+	font-weight: 700;
+}
+.sub-header-p{
+	color: black;
+	font-size: 14px;
+}
+.container-fluid{
+	padding-top: 20px;
+	padding-bottom: 40px;
+	background-color: rgba(211,211,211,.2);
+	border-top: 1px solid rgba(211,211,211,.3);
+}
+.container-fluid2{
+	padding-top: 20px;
+	background-color: rgba(211,211,211,.2);
+	border-top: 1px solid rgba(211,211,211,.3);
+	border-bottom: 1px solid rgba(211,211,211,.3);
+}
+.personalized-div{
+	padding-top: 50px;
+	background-color: white;
+}
+.personalized-right{
+	width: 450px;
+}
+
+.nav-link-text{
+	padding-bottom: 20px;
+	color: blue;
+}
+.nav-link-text:hover{
+	text-decoration: underline;
+}
+
+.mid-div-img{
+	width: 100%;
+	height: 300px;
+}
+.mid-div-img2{
+	width: 70%;
+	
+}
+.middle{
+	text-align: center;
+	color: #000;
+	width: 70%;
+	margin: 10px 15%;
+}
+.card-block{
+	width: 100%;
+	padding-left: 0;
+	padding-right: 0;
+	font-size: 14px;
+}
+.jumbotron-foot-div{
+	background: linear-gradient(#307D7E, transparent 98%),
+				linear-gradient(1deg, #4C787E, transparent);
+}
+.whatsfresh{
+	color: white;
+	width: 30%;
+	margin-right: 35%;
+	margin-left: 35%;
+}
+
+.footer-social-icons{
+	height: 20px;
+	width: 20px;
+	}
+
+.white{
+	color: white;
+}
+.signup-btn{
+	margin: 25px 0  10px 80%;
+}
+.login-btn{
+	margin: 25px 0  10px 83%;
+}
+
+
+/*********************MEDIA LINKS*********************/
+@media (max-width: 1024px){
+
+	.display-4{
+	color: white;
+	font-size: 2rem;
+	font-weight: bold;
+	text-align: center;
+	padding: 10% 13% 1% 13%;
+}
+.sub-header1{
+	margin-left: 5%;
+
+	text-align: center;
+}
+.sub-header2{
+	margin-left: 0;
+
+	text-align: center;
+}
+	.sub-header-p{
+	color: black;
+	font-size: 13px;
+}
+	.sub-header-h4{
+	color: black;
+	font-weight: 500;
+}
+	
+@media (max-width: 890px){
+
+	.display-4{
+	color: white;
+	font-size: 2rem;
+	font-weight: bold;
+	text-align: center;
+	padding: 10% 13% 1% 13%;
+}
+.sub-header1{
+	margin-left: 33.3333%;
+
+	text-align: center;
+}
+.sub-header2{
+	margin-left: 33.3333%;
+
+	text-align: center;
+}
+	.sub-header-p{
+	color: black;
+	font-size: 13px;
+}
+	.sub-header-h4{
+	color: black;
+	font-weight: 500;
+}
+	.whatsfresh{
+	width: 50%;
+	margin-right: 25%;
+	margin-left: 25%;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
